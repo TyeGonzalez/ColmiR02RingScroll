@@ -2,6 +2,10 @@
 
 This repository provides multiple Python applications to work with the Colmi R02 Smart Ring. The code is inspired by includes real-time data acquisition, visualization, and scrolling capabilities based on accelerometer measurements from the ring. Inspiration taken from [this repository](https://github.com/edgeimpulse/example-data-collection-colmi-r02) (python implementation) and [this repository](https://github.com/atc1441/ATC_RF03_Ring) (custom firmware for faster data acquisition).
 
+
+## DEMO
+[https://youtube.com/shorts/WAgXmpwcYaM?si=N1QRPKxNgN0B758x](https://youtube.com/shorts/WAgXmpwcYaM?si=N1QRPKxNgN0B758x)
+
 ## Project Structure
 - **ring_scrollv2.py**  
   Uses BLE notifications to capture accelerometer data and translates tilt into scrolling actions.  Automatically shows a live visualization of current input data.
